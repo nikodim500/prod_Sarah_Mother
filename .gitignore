@@ -41,3 +41,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Visual Micro/Upload.vmps.xml
+Visual Micro/Configuration.Release.vmps.xml
+Visual Micro/Configuration.Debug.vmps.xml
+Visual Micro/Compile.vmps.xml
+Visual Micro/.prod_Sarah_Mother.vsarduino.h
+Release/prod_Sarah_Mother.log
+Release/prod_Sarah_Mother.lastbuildstate
+prod_Sarah_Mother.vcxproj.user
+*.filters
+prod_Sarah_Mother.vcxproj
+*.suo
+prod_Sarah_Mother.sln
+prod_Sarah_Mother.sdf
